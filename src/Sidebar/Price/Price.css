@@ -1,0 +1,15 @@
+.price-title{
+    margin-top: 20px;
+    
+}
+
+.sidebar-title price-title{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: plum;
+
+}
+
+.ml{
+    margin-left: 20px;
+}
